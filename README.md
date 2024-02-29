@@ -14,9 +14,9 @@ O código consiste em dois scripts: `cliente_udp.py` e `servidor_udp.py`. O clie
    git clone https://github.com/seu-username/udp-communication-example.git
 
 2. Execute o servidor:
-```bash
-python servidor_udp.py
+   ```bash
+   python servidor_udp.py
 
 3. Em outro terminal, execute o cliente:
-```bash
-python cliente_udp.py
+   ```bash
+   python cliente_udp.py
