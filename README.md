@@ -13,11 +13,11 @@ O código consiste em dois scripts: `cliente_udp.py` e `servidor_udp.py`. O clie
    ```bash
    git clone https://github.com/seu-username/udp-communication-example.git
 
-1. Execute o servidor:
+2. Execute o servidor:
 ```bash
 python servidor_udp.py
 
-2. Em outro terminal, execute o cliente:
+3. Em outro terminal, execute o cliente:
 
 ```bash
 python cliente_udp.py
