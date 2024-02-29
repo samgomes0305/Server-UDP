@@ -18,6 +18,5 @@ O código consiste em dois scripts: `cliente_udp.py` e `servidor_udp.py`. O clie
 python servidor_udp.py
 
 3. Em outro terminal, execute o cliente:
-
 ```bash
 python cliente_udp.py
